@@ -1,0 +1,12 @@
+{
+	"name" : "divo",
+	"email" : "divo@divo.net.pl",
+	"url" : "http://divo.net.pl/",
+	"start": "node server.js",
+	"dependencies": {
+		"angular": "1.5.x",
+		"angular-mocks": "1.5.x",
+		"angular-route": "1.5.x",
+		"bootstrap": "3.3.x"
+	}
+}
